@@ -1,0 +1,24 @@
+Google Scrape: 
+##This scrapper is outdated but it may still be helpful
+https://github.com/NikolaiT/GoogleScraper
+
+Linkedin Scrapper:
+https://github.com/ArnavBalyan/LinkedIn_Web-Scraper/tree/master
+
+Social Media Scrapper:
+##This scrapper can get the comments with specified strings, be careful with the anonymous comments
+https://github.com/ScriptSmith/socialreaper
+
+Facebook Scrapper:
+https://github.com/kevinzg/facebook-scraper
+
+Twitter Scrapper: 
+##Not sure which is better
+https://github.com/bisguzar/twitter-scraper
+https://github.com/taspinar/twitterscraper
+
+Quora Scrapper:
+https://github.com/banyous/quora-scraper
+
+##Following the list of ## Social Media & Forums, didn’t find the proper python scrapper for 1)Reddit, 2)Discord, 3)StackExchange, 4)ResearchGate, 5)Academia. 
+##Try look for them or use some Java scrappers.
